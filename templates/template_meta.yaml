@@ -25,7 +25,7 @@ proxy-groups:
       - 节点选择
       - 手动切换
       - DIRECT
-  - name: 哔哩哔哩
+  - name: 哔哩哔哩!
     type: select
     proxies:
       - 节点选择
